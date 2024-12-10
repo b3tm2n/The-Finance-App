@@ -10,7 +10,7 @@ A small Finance App created by a student.
 - View Transaction History 
 
 ## Installation
-1. Clone the repo: `gitrepolink`
+1. Clone the repo: `https://github.com/b3tm2n/The-Finance-App.git`
 2. Backend:
    - Import schema.sql into your MySQL or SQLite database.
 3. Frontend:
