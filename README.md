@@ -12,7 +12,7 @@ A small Finance App created by a student.
 ## Installation
 1. Clone the repo: `https://github.com/b3tm2n/The-Finance-App.git`
 2. Backend:
-   - Import schema.sql into your MySQL or SQLite database.
+   - Import finance_app.sql into your MySQL or SQLite database.
 3. Frontend:
    - Place the project in your web server directory (e.g., htdocs for XAMPP).
    - Open index.php in your browser (e.g., https://localhost/the-finance-app/).
